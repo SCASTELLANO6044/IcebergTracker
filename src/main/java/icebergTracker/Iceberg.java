@@ -1,4 +1,4 @@
-package icebergTracker;
+package icebergtracker;
 
 import java.time.LocalDate;
 
