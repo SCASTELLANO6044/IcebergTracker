@@ -26,9 +26,8 @@ public class Iceberg {
     }
 
     @Override
-    public String toString() {
-        return "Iceberg con id: " + id + ", se origina en: " + origin 
-                + ", en la fecha: " + created;
+      public String toString() {
+          return "id: " + id;
     }
 
 }
